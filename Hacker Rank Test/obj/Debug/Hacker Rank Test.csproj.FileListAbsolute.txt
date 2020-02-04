@@ -1,0 +1,6 @@
+D:\visual studio workspace\hacker rank\Hacker Rank Test\Hacker Rank Test\bin\Debug\Hacker Rank Test.exe.config
+D:\visual studio workspace\hacker rank\Hacker Rank Test\Hacker Rank Test\bin\Debug\Hacker Rank Test.exe
+D:\visual studio workspace\hacker rank\Hacker Rank Test\Hacker Rank Test\bin\Debug\Hacker Rank Test.pdb
+D:\visual studio workspace\hacker rank\Hacker Rank Test\Hacker Rank Test\obj\Debug\Hacker Rank Test.csprojResolveAssemblyReference.cache
+D:\visual studio workspace\hacker rank\Hacker Rank Test\Hacker Rank Test\obj\Debug\Hacker Rank Test.exe
+D:\visual studio workspace\hacker rank\Hacker Rank Test\Hacker Rank Test\obj\Debug\Hacker Rank Test.pdb
