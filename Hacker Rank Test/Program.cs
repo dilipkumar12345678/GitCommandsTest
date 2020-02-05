@@ -12,7 +12,7 @@ namespace Hacker_Rank_Test
         {
             Console.WriteLine("hello world");
             Console.ReadLine();
-			return;
+			
         }
     }
 }
